@@ -14,7 +14,6 @@
                          Speed in dealing cards is a critical aspect, ensuring that game flow is not interrupted. In addition, the robot will be crafted with an aesthetically pleasing design, making it an attractive addition to any gaming table. 
                          This blend of functionality, speed, and design aims to deliver a seamless and engaging card game experience.
 
-                         
     @section sec_2       HARDWARE
                          The design concept for this project involves constructing a robot with a two-part subassembly. 
                          The first part is the base, designed to remain immobile, providing stability and support. 
