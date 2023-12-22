@@ -115,7 +115,7 @@ OBJECTIVE</h1>
                      However, the "Shoe of Brian" extension board is specially designed and developed exclusively for the ME 405 course by of Dr. Ridgely.
                      Figure below is the Nucleo STM32 microcontroller, integrated with its specialized extension, the "Shoe of Brian" board. 
 
-                     @image html Nucleo.png
+
 
                      More details about how the electronic parts are connected and designed will be given in the @ref firmware section. 
                      This part of the document will clearly explain how all the components work together.
@@ -129,15 +129,14 @@ OBJECTIVE</h1>
                     However, understanding the underlying physics and geometry of these equations can be challenging. 
                     A figure is provided below, which illustrates the hand-derived model of ROMI in a state-space vector format, complete with explanations of all parameters and their dimensions.
 
-                    @image html handcal2.png
-                    @image html handcal1.png
+
 
 @section sec_5      FINAL DESIGN
                     The final CAD design of the ROMI robot includes an array of components: a digital line sensor module with five channels, an analog line sensor module, an ultrasonic distance sensor, two DC motors each equipped with built-in encoders, and two micro servos. 
                     The complete assembly of ROMI, representing the culmination of the term project, is depicted in the figure below. 
                     This design is current as of December 13, 2023. Please note that any further updates beyond this date will not be included in this portfolio due to time constraints.
 
-                    @image html assy.png 
+
 
 @section sec_6      TASK DIAGRAM
                     The robot will concurrently execute four tasks, as outlined in the Task Diagram below. 
@@ -146,7 +145,7 @@ OBJECTIVE</h1>
 
                     Note: All diagrams are listed and explain in detail at @ref diagram for futher more description
 
-                    @image html tasks_diagram.png
+
 
 @section sec_7      MILESTONES DEMO
                     Below are four consecutive milestones that are overcome to complete the project as describe in the objective section. ROMI should first be able to follow any type of black line that is drawn, avoid a random wall obstacle at any point, stop at the predetermined target, the finally return at the Home position
@@ -168,7 +167,7 @@ OBJECTIVE</h1>
                     When no line is detected, the ROMI will slow down in explore mode. 
                     This function marks the first milestone of the whole project
 
-                    @image html LINEDEMO.gif
+
 
                     Wall Obstacle Avoiding Demo
 
@@ -177,7 +176,7 @@ OBJECTIVE</h1>
                     This design will make sure ROMI can getaway from any obstacle size and loction not just the praticing obstacle in the lab.
                     This function marks the second milestone of the whole project
 
-                    @image html WALLDEMO.gif
+
 
                     Stop at Target Demo
 
@@ -185,7 +184,7 @@ OBJECTIVE</h1>
                     If the distance is greater than 0.15 [m] or 15 [cm], ROMI will stop and notice that as the Target.
                     This function marks the third milestone of the whole project
 
-                    @image html GOALDEMO.gif
+
 
                     Return Home Demo
 
@@ -193,7 +192,7 @@ OBJECTIVE</h1>
                     cordinate from the hand derivation of the previous sectio that can be found at @ref simulation. Then the returning goal can be breakdown to 2 distingush state, return y until y ~ 0 [m] and then return x until x ~ 0 [m]. 
                     This function marks the final milestone of the whole project
 
-                    @image html RETURNDEMO.gif
+
 
 @section sec_8      FULLCOURSE DEMONSTRATION
                     As detailed in @ref sec_1 Section, the integration of all milestones archived in  @ref sec_7 is more than sufficient to enable the autonomous two-wheeled robot ROMi to successfully complete the practice course outlined
@@ -206,14 +205,6 @@ OBJECTIVE</h1>
 
                     Note: Real-time video URL link is accessible in @ref sec_yout
 
-                    Practice Course v1:             https://www.youtube.com/shorts/hcw71OoOBFM
-
-                    Practice Course v2:             https://www.youtube.com/shorts/IiCvUNNVnG8
-
-                    Final Demonstration Course:     https://www.youtube.com/watch?v=OuhY6JEWlXs
-
-                    Disassembly:                    https://www.youtube.com/watch?v=cobgG8Q9dXY
-
 @section sec_yout   YOUTUBE REFERENCE
                     All videos including all the fail and successful run can be reference and accessible in the following URL links:
 
@@ -223,7 +214,7 @@ OBJECTIVE</h1>
 
 @section sec_repo   REPOSITORY REFERENCE
                     All code that will be referenced in this portfolio relate to ROMI project
-                    is accessible through https://github.com/vvinhvvo98/ME405
+                    is accessible through []
 
                     However, you may find it more useful to read through
                     the labs before looking around there. 

@@ -42,8 +42,6 @@
                             
                         IR5_______________PC1
 
-                        @image html linesensor.png
-                                                 
     @section sec_lin1   TCRT5000 Infrared Reflective Sensor Sensor
                         Description: This sensor features a total of 1 digital and 1 analog output pins, 
                         which include two pins dedicated to a 5V power supply. In this project, the analog output signal will be used
@@ -56,9 +54,7 @@
                             
                         A0________________PA4
                             
-                        D0________________NC
-                            
-                        @image html linesensor2.png 
+                        D0________________NC 
                         
     @section sec_uls    HC-SR04 Ultrasonic Distance Sensor
                         Description: This sensor features a total of 1 trigger pin as a digital output pin, and 1 echo pin as a digital input pin.
@@ -74,8 +70,6 @@
                         TRIG______________PB5
                             
                         ECHO______________PB4
-                        
-                        @image html uls.png
                                                
     @section sec_imu    BNO055 Inerial Measurement Unit(IMU)
                         Description: The IMU sensor in this project is capable of measuring the robot ROMI's tilt (Euler angles) and its linear and angular speeds. 
@@ -96,8 +90,6 @@
                         3V________________NC
                         
                         RST_______________NC
-                            
-                        @image html imu_sensor.png
 
     @section sec_enc    POLOLU Encoders 
                         The encoder, serving as a sensor for this project, is typically bundled with the DC gear motor from Pololu, although it can also be purchased separately. 
@@ -110,8 +102,6 @@
                         ChA_______________PA0 (L) & PA8 (R)
                             
                         ChB_______________PA1 (L) & PA9 (R)
-                            
-                        @image html encoder.png
                         
     @section sec_dc     POLOLU Gear DC Motor 
                         Description: The DC motor used in this project, typically sold with an encoder from Pololu, can also be bought separately. 
@@ -126,9 +116,6 @@
                         DIR_______________PA10 (L) & PB10 (R)
                         
                         PWM_______________PB7 (L) & B6 (R)
-                            
-                            
-                        @image html motor.png
                         
     @section sec_ser    MG90S Micro Servo 
                         Description: This servo works very similar the SG90 microservo, but it has more torque using internal metal gear set.
@@ -144,8 +131,6 @@
                         SIGN_______________PB0  (Servo 1)
                             
                         SIGN_______________PC7  (Servo 2)
-                            
-                        @image html servo.png
                          
    @author              Vinh Vo
    @author              Quinlan Stephens

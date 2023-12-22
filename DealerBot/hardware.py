@@ -14,42 +14,31 @@
                         
                         3D Model:
                             
-                        @image html NucleoBracket.png
                                                  
     @section sec_br2    Balance Counter Weight Bracket
                         Designer: Vinh Vo  
                         
                         3D Model:
-                            
-                        @image html counterweightbracket.png 
                         
     @section sec_br3    Servos and Ultrasonic Distance Sensors Brackets
                         Designer: Vinh Vo  
                         
                         3D Model:
-                        
-                        @image html ULSbracket.png
                                                
     @section sec_br4    Dollar-sign blindfold
                         Designer: Vinh Vo
                         
                         3D Model:
-                            
-                        @image html blindfold.png
                                            
     @section sec_br5    ROMI'S Stand
                         Designer: Vinh Vo
                         
                         3D Model:
-                            
-                        @image html stand.png
                                                
     @section sec_br6    Final Design
                         Designer: Vinh Vo   
                         
                         3D Model:
-                            
-                        @image html assembly.png
                         
     @section sec_br7    CAD REFERENCE
                         All CAD modeling from SolidWorks can be access in the "CAD" folder through
