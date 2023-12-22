@@ -1,37 +1,31 @@
 '''!@file                mainpage.py
-    @brief               ROMI SEARCH & RESCUE TERM PROJECT
-    @details             This porfolio page will be documenting everything related to Mechatronics ME_405 Term Project
+    @brief               CARD DEALER ROBOT PROJECT
+    @details             This porfolio page will be documenting everything related to personal project called CARD DEALER ROBOT
                          include coding work, electronics, and logic behind the robot
-                         Please feel free to explore the file and email me at vinhvo.career@gmail.com if you have any question
+                         Please feel free to explore the files and email me at vinhvo.career@gmail.com if you have any question
 
     @mainpage
     
 
     @section sec_1       OBJECTIVE
-                         The objective of this project is to design and build a robot that operates autonomously. 
-                         This robot will start from a designated 'Home' position 
-                         with its primary task is to follow multiple pattern paths marked with black lines that are 0.75 inches wide. 
-                         In the course of its journey, the robot will encounter and need to navigate over or around a wall-like obstacle. 
-                         Once it reaches a predetermined spot known as the 'Target', it should be able to stop
-                         After reaching the Target, the robot's next challenge is to find its way back to the original path it left. 
-                         To help visualize and plan for this, a detailed diagram showing the layout of the paths and the location of the Home and Target positions is provided for reference. 
-                         This diagram is crucial for understanding the robot's intended route and the obstacles it will face.
-                         
-                         @image html path.png
+                         The project's purpose is to design a robot that simplifies the card-dealing process for popular games such as Poker and Blackjack. 
+                         The robot will be equipped with a straightforward display screen, allowing players to easily select the game, determine the number of participants, and set the card distribution per player. 
+                         It will include a convenient memory feature to enable users to quickly replay the game without re-entering the same details, maintaining the card order for consistency in games where this is essential. 
+                         Speed in dealing cards is a critical aspect, ensuring that game flow is not interrupted. In addition, the robot will be crafted with an aesthetically pleasing design, making it an attractive addition to any gaming table. 
+                         This blend of functionality, speed, and design aims to deliver a seamless and engaging card game experience.
+
                          
     @section sec_2       HARDWARE
-                         The first step in our approach involves determining the hardware configuration for the robot. 
-                         To improve the process, we opted for a 2-wheel drive design, which offers simplicity and efficiency. 
-                         Considering the time constraints of the project, we decided to utilize a ROMI kit from Pololu. 
-                         This decision significantly cuts down on the time required for mechanical CAD design and the manufacturing of the chassis. 
-                         The ROMI kit includes a circular chassis equipped with built-in 9V DC motors, drivers, and encoders. 
-                         This choice allows us to kickstart the project effectively by minimizing the time typically spent on hardware development.
+                         The design concept for this project involves constructing a robot with a two-part subassembly. 
+                         The first part is the base, designed to remain immobile, providing stability and support. 
+                         The second part is an upper segment that incorporates a spur gear. 
+                         This gear will be connected to a stepper motor, which is responsible for the controlled rotational and pivotal movements of the robot, allowing it to adjust its orientation as needed.
+                         
+                         To visualize the idea before we proceed with the detailed engineering work, a hand-drawn sketch will be used. This sketch will serve as a preliminary visual guide, illustrating the basic structure and function of the two-part mechanism.
 
-                         @image html ROMI_kit.png
-
-                         Despite this, there remains a need for some CAD modeling to properly integrate the microcontroller and the necessary sensors to achieve the project's objectives. 
-                         This CAD modeling will involve designing parts that are essential for sensor integration and overall functionality of the robot. 
-                         The specific parts and detailed descriptions of these components can be found in the reference section linked below, under @ref hardware, where we delve into the finer details of the hardware aspect.
+                         SKETCH GOES HERE
+                         
+                         For more information on the design, you can check out the detailed CAD model at @ref hardware.
                          
     @section sec_3       FIRMWARE
                          For the educational objectives of the Mechatronics ME 405 course, the selected microcontroller is the Nucleo STM32, which is complemented by an extension board known as the "Shoe of Brian." 
