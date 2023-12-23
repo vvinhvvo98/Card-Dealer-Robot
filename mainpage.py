@@ -16,7 +16,7 @@
 
     @section sec_2      HARDWARE
                         The design concept for this project involves constructing a robot with a two-part subassembly. 
-                        The first part is the base, designed to remain immobile, providing stability and support. 
+                        The first part is the bottom base, designed to remain immobile, providing stability and support. 
                         The second part is an upper segment that incorporates a spur gear. 
                         This gear will be connected to a stepper motor, which is responsible for the controlled rotational and pivotal movements of the robot, allowing it to adjust its orientation as needed.  
                         To visualize the idea before we proceed with the detailed engineering work, a hand-drawn sketch will be used. This sketch will serve as a preliminary visual guide, illustrating the basic structure and function of the two-part mechanism.

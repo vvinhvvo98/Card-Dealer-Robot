@@ -26,6 +26,13 @@ var NAVTREE =
 [
   [ "Card Dealer Robot", "index.html", [
     [ "OBJECTIVE", "index.html#sec_1", null ],
+    [ "HARDWARE", "index.html#sec_2", null ],
+    [ "FIRMWARE", "index.html#sec_3", null ],
+    [ "FINAL DESIGN", "index.html#sec_5", null ],
+    [ "TASK DIAGRAM", "index.html#sec_6", null ],
+    [ "PROJECT COMPLETE", "index.html#sec_7", null ],
+    [ "YOUTUBE REFERENCE", "index.html#sec_yout", null ],
+    [ "REPOSITORY REFERENCE", "index.html#sec_repo", null ],
     [ "Electronic & Firmware", "firmware.html", [
       [ "Overview", "firmware.html#sec_o", null ],
       [ "OSOYOO Infrared Line Tracking Sensor", "firmware.html#sec_lin", null ],
