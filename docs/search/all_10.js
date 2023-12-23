@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['pololu_20encoders_0',['POLOLU Encoders',['../firmware.html#sec_enc',1,'']]],
-  ['pololu_20gear_20dc_20motor_1',['POLOLU Gear DC Motor',['../firmware.html#sec_dc',1,'']]],
-  ['project_20complete_2',['PROJECT COMPLETE',['../index.html#sec_7',1,'']]]
+  ['tcrt5000_20infrared_20reflective_20sensor_20sensor_0',['TCRT5000 Infrared Reflective Sensor Sensor',['../firmware.html#sec_lin1',1,'']]],
+  ['tracking_20sensor_1',['OSOYOO Infrared Line Tracking Sensor',['../firmware.html#sec_lin',1,'']]]
 ];

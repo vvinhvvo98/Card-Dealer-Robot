@@ -9,28 +9,28 @@
                         and a ROMI's stand is also designed for calibration purpose
                         
                          
-    @section sec_br1    NUCLEO STM32 Microcontroller Bracket
+    @section sec_br1    
                         Designer: Vinh Vo    
                         
                         3D Model:
                             
                                                  
-    @section sec_br2    Balance Counter Weight Bracket
+    @section sec_br2    
                         Designer: Vinh Vo  
                         
                         3D Model:
                         
-    @section sec_br3    Servos and Ultrasonic Distance Sensors Brackets
+    @section sec_br3    
                         Designer: Vinh Vo  
                         
                         3D Model:
                                                
-    @section sec_br4    Dollar-sign blindfold
+    @section sec_br4   
                         Designer: Vinh Vo
                         
                         3D Model:
                                            
-    @section sec_br5    ROMI'S Stand
+    @section sec_br5    
                         Designer: Vinh Vo
                         
                         3D Model:
@@ -42,7 +42,7 @@
                         
     @section sec_br7    CAD REFERENCE
                         All CAD modeling from SolidWorks can be access in the "CAD" folder through
-                        https://github.com/vvinhvvo98/ME405
+                        
                          
                         
    @author              Vinh Vo

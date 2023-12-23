@@ -36,18 +36,17 @@
                         
     
     @section sec_5      FINAL DESIGN
-                        The final CAD design of the ROMI robot includes an array of components: a digital line sensor module with five channels, an analog line sensor module, an ultrasonic distance sensor, two DC motors each equipped with built-in encoders, and two micro servos. 
+                        The final CAD design of the Card Dealer Robot includes an array of components:
                         The complete assembly of ROMI, representing the culmination of the term project, is depicted in the figure below. 
                         This design is current as of December 13, 2023. Please note that any further updates beyond this date will not be included in this portfolio due to time constraints.
                         
                         
       
-    @section sec_6      TASK DIAGRAM
+    @section sec_6      STATE DIAGRAM
                         The robot will concurrently execute four tasks, as outlined in the Task Diagram below. 
                         This diagram specifies the duration (in ms) and relative priority of each task. 
                         These tasks will be scheduled according to their assigned priorities and periods using a scheduler script, the code for which has been provided by Lecturer Charlie Refvem.
-                        
-                        Note: All diagrams are listed and explain in detail at @ref diagram for futher more description
+        
                         
     @section sec_7      PROJECT COMPLETE
                         
@@ -56,13 +55,13 @@
     @section sec_yout   YOUTUBE REFERENCE
                         All videos including all the fail and successful run can be reference and accessible in the following URL links:
                             
-                        All Videos:                     https://www.youtube.com/channel/UCh_4F4CJVqvAhHmCMTvIb-w
+                        All Videos:                    
                         
                         
 
     @section sec_repo   REPOSITORY REFERENCE
                         All code that will be referenced in this portfolio relate to ROMI project
-                        is accessible through []
+                        is accessible through
                         
                         However, you may find it more useful to read through
                         the labs before looking around there. 

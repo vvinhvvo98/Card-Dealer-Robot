@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['electronic_20firmware_0',['Electronic &amp; Firmware',['../firmware.html',1,'']]],
-  ['encoders_1',['POLOLU Encoders',['../firmware.html#sec_enc',1,'']]]
+  ['final_20design_0',['final design',['../hardware.html#sec_br6',1,'Final Design'],['../index.html#sec_5',1,'FINAL DESIGN']]],
+  ['firmware_1',['firmware',['../firmware.html',1,'Electronic &amp; Firmware'],['../index.html#sec_3',1,'FIRMWARE']]]
 ];
