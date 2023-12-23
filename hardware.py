@@ -10,7 +10,7 @@
                         
                          
     @section sec_br1    NUCLEO STM32 Microcontroller Bracket
-                        Designer: Charlie Refvem    
+                        Designer: Vinh Vo    
                         
                         3D Model:
                             
