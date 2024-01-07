@@ -1,12 +1,11 @@
 '''! @page hardware 3D CAD Modeling
+
     @section sec_bro    Overview
                         This robot has a strong design with two linear ball bearings and a 3/4" shaft to support its structure. 
                         On top of this base, it has electronic parts and spacers for organization. 
                         Its card distribution system uses a spring to press cards against a spinning wheel, driven by a NEMA 17 motor. 
                         The part that distributes cards can be easily removed and attached with four magnets for quick card loading.
                         
-                        
-                         
     @section sec_br1    Part 1: Base
                         3D Model: Assembly
                         
@@ -64,11 +63,10 @@
                         3D Model: Exploded View
                         
     @section sec_br7    CAD REFERENCE
-                        All CAD modeling from SolidWorks can be access in the "CAD" folder through
+                        All CAD modeling from SolidWorks can be access in the "CAD" folder through https://github.com/vvinhvvo98/Card-Dealer-Robot/deployments
                         
                          
                         
    @author              Vinh Vo
-   @author              Quinlan Stephens
    @date                Dec 12, 2023
 '''

@@ -33,25 +33,8 @@ var NAVTREE =
     [ "PROJECT COMPLETE", "index.html#sec_7", null ],
     [ "YOUTUBE REFERENCE", "index.html#sec_yout", null ],
     [ "REPOSITORY REFERENCE", "index.html#sec_repo", null ],
-    [ "Electronic & Firmware", "firmware.html", [
-      [ "Overview", "firmware.html#sec_o", null ],
-      [ "OSOYOO Infrared Line Tracking Sensor", "firmware.html#sec_lin", null ],
-      [ "TCRT5000 Infrared Reflective Sensor Sensor", "firmware.html#sec_lin1", null ],
-      [ "<br>", "firmware.html#sec_uls", null ],
-      [ "<br>", "firmware.html#sec_imu", null ],
-      [ "<br>", "firmware.html#sec_enc", null ],
-      [ "<br>", "firmware.html#sec_dc", null ],
-      [ "<br>", "firmware.html#sec_ser", null ]
-    ] ],
-    [ "3D CAD Modeling", "hardware.html", [
-      [ "Overview", "hardware.html#sec_bro", null ],
-      [ "Part 1: Base", "hardware.html#sec_br1", null ],
-      [ "Part 2: Bottom", "hardware.html#sec_br2", null ],
-      [ "Part 3: Middle", "hardware.html#sec_br3", null ],
-      [ "Part 4: Top", "hardware.html#sec_br4", null ],
-      [ "Final Design", "hardware.html#sec_br6", null ],
-      [ "CAD REFERENCE", "hardware.html#sec_br7", null ]
-    ] ],
+    [ "Electronic & Firmware", "firmware.html", null ],
+    [ "3D CAD Modeling", "hardware.html", null ],
     [ "Files", "files.html", [
       [ "File List", "files.html", "files_dup" ]
     ] ]
