@@ -3,26 +3,26 @@
                         asdas
                         
     @section sec_1      Custom PCB
-                        asdasd
+                        @image html pcb.png
                         
     @section sec_2      Arduino Nano
-                        asdasd
+                        @image html mcu.png
                         
     @section sec_3      Step Down Regulator
-                        asdasd
+                        @image html stepdown.png
                         
     @section sec_4      NEMA 17 Stepper Motor 
-                        asdasd
+                        @image html nema.png
                         
     @section sec_5      OLED Screen
-                        asdasd
+                        @image html oled.png
                         
     @section sec_6      Keyboard 4x4
-                        asdasd
+                        @image html keyboard.png
                         
     @section sec_7      RGB LED      
-                        asdasd
-                         
+                        @image html led.png   
+                        
    @author              Vinh Vo
    @date                Sep 12, 2023
 '''
