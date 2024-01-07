@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['sensor_0',['OSOYOO Infrared Line Tracking Sensor',['../firmware.html#sec_lin',1,'']]],
-  ['sensor_20sensor_1',['TCRT5000 Infrared Reflective Sensor Sensor',['../firmware.html#sec_lin1',1,'']]]
+  ['screen_0',['OLED Screen',['../index.html#sec_5',1,'']]],
+  ['step_20down_20regulator_1',['Step Down Regulator',['../index.html#sec_3',1,'']]],
+  ['stepper_20motor_2',['NEMA 17 Stepper Motor',['../firmware.html#sec_4',1,'']]]
 ];

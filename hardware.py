@@ -66,10 +66,10 @@
                         
                         
     @section sec_br7    CAD REFERENCE
-                        All CAD modeling from SolidWorks can be access in the "CAD" folder through https://github.com/vvinhvvo98/Card-Dealer-Robot/deployments
+                        All CAD modeling from SolidWorks can be access in the "CAD" folder through https://github.com/vvinhvvo98/Card-Dealer-Robot
                         
                          
                         
    @author              Vinh Vo
-   @date                Dec 12, 2023
+   @date                Sep 12, 2022
 '''

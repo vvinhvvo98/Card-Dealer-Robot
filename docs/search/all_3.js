@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['4_3a_20top_0',['Part 4: Top',['../hardware.html#sec_br4',1,'']]]
+  ['arduino_20nano_0',['Arduino Nano',['../index.html#sec_2',1,'']]]
 ];

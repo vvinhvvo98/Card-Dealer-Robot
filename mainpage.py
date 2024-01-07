@@ -46,16 +46,12 @@
                         @image html finaldesign.png
       
     @section sec_6      FLOW DIAGRAM
+                        The project's diagram, started early in the junior year, uses block coding instead of a typical Finite State Machine. 
+                        A flow diagram is included to clearly show how the robot works. 
                         The diagram of this project does not follow the Finite State Machine but contains a lot of block coding since the project is start early of school years.
                         However, the flow diagram below will briefly describe the running flow of the robot.
                         
                         @image html flowchart.png
-        
-                        
-    @section sec_7      PROJECT COMPLETE
-                        The project's diagram, started early in the junior year, uses block coding instead of a typical Finite State Machine. 
-                        A flow diagram is included to clearly show how the robot works.                        
-    
                         
     @section sec_yout   YOUTUBE REFERENCE
                         All videos including all the fail and successful run can be reference and accessible in the following URL links:
@@ -66,12 +62,11 @@
 
     @section sec_repo   REPOSITORY REFERENCE
                         All code that will be referenced in this portfolio relate to ROMI project
-                        is accessible through
+                        is accessible through https://github.com/vvinhvvo98/Card-Dealer-Robot
                         
                         However, you may find it more useful to read through
-                        the labs before looking around there. 
+                        the whole pages before looking around there. 
                        
    @author              Vinh Vo
-   @author              Quinlan Stephens
-   @date                Dec 12, 2023
+   @date                Sep 12, 2022
 '''

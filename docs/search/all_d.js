@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['top_0',['Part 4: Top',['../hardware.html#sec_br4',1,'']]]
+  ['oled_20screen_0',['OLED Screen',['../index.html#sec_5',1,'']]],
+  ['overview_1',['Overview',['../firmware.html#sec_o',1,'']]]
 ];

@@ -25,16 +25,19 @@
 var NAVTREE =
 [
   [ "Card Dealer Robot", "index.html", [
-    [ "FINAL DESIGN", "index.html#sec_5", null ],
-    [ "FLOW DIAGRAM", "index.html#sec_6", null ],
-    [ "PROJECT COMPLETE", "index.html#sec_7", null ],
     [ "YOUTUBE REFERENCE", "index.html#sec_yout", null ],
     [ "REPOSITORY REFERENCE", "index.html#sec_repo", null ],
-    [ "Electronic & Firmware", "firmware.html", null ],
+    [ "Electronic & Firmware", "firmware.html", [
+      [ "Overview", "firmware.html#sec_o", null ],
+      [ "Custom PCB", "firmware.html#sec_1", null ],
+      [ "Arduino Nano", "firmware.html#sec_2", null ],
+      [ "Step Down Regulator", "firmware.html#sec_3", null ],
+      [ "NEMA 17 Stepper Motor", "firmware.html#sec_4", null ],
+      [ "OLED Screen", "firmware.html#sec_5", null ],
+      [ "Keyboard 4x4", "firmware.html#sec_6", null ],
+      [ "RGB LED      <br>", "firmware.html#sec_7", null ]
+    ] ],
     [ "3D CAD Modeling", "hardware.html", [
-      [ "Overview", "hardware.html#sec_1", null ],
-      [ "Part 1: Base", "hardware.html#sec_2", null ],
-      [ "Part 2: Bottom", "hardware.html#sec_3", null ],
       [ "Part 3: Middle", "hardware.html#sec_br3", null ],
       [ "Part 4: Top", "hardware.html#sec_br4", null ],
       [ "Final Design", "hardware.html#sec_br6", null ],
