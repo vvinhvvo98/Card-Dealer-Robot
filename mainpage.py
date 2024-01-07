@@ -17,13 +17,13 @@
     @section sec_2      HARDWARE
                         The design concept for this project involves constructing a robot with a four-part subassembly. 
                         
-                        The first part is the bottom base, designed to remain immobile, providing stability and support.
+                        Part 1 is the bottom base, designed to remain immobile, providing stability and support.
                         
-                        The second part is an middle pard that incorporates a spur gear. 
+                        Part 2 is an middle pard that incorporates a spur gear that will rotate with respect to the base
                         
-                        The third part is in a seperate part that use to shooting card out for card distribution that is attached by 4 strong magnets.
+                        Part 3 is in a seperate part that use to hold the card deck and shooting card out for card distribution that is attached by 4 strong magnets.
                         
-                        The fourth part is the top piece that is included everything for User Interface such as indicator LED, OLED screen and keyboard.
+                        Part 4 is the top piece that is included everything for User Interface such as indicator LED, OLED screen and 4x4 keyboard.
 
                         SKETCH GOES HERE
                          
@@ -31,7 +31,7 @@
                          
     @section sec_3      FIRMWARE
                         For this project, consider using an Arduino Nano as the microcontroller due to its compact size and efficiency in controlling input and output logic. 
-                        Include two NEMA 17 stepper motors: one to control the rotation of the upper part for rotation, and the other for the precise dealing of cards from the deck. 
+                        Include two NEMA 17 stepper motors: one to control the rotation, and the other for the precise dealing of cards from the deck. 
                         Implement a user-friendly interface featuring a small OLED screen for clear display of information like the number of players and cards per player, along with various settings. 
                         A 12x4 keyboard will allow for easy input of these details. The design should focus on a compact yet robust build to accommodate continuous card dealing.
                              
@@ -43,13 +43,14 @@
                         Figure below shows the final design of the robot
                         This design is current as of September 12, 2022. Please note that any further updates beyond this date will not be included.
                         
+                        @image html finaldesign.png
                         
       
     @section sec_6      FLOW DIAGRAM
                         The diagram of this project does not follow the Finite State Machine but contains a lot of block coding since the project is start early of school years.
                         However, the flow diagram below will briefly describe the running flow of the robot.
                         
-                        @image html .png
+                        @image html flowchart.png
         
                         
     @section sec_7      PROJECT COMPLETE
