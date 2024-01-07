@@ -16,7 +16,6 @@
                         
                         3D Model: Friction Tape  
                         
-                                                 
     @section sec_br2    Part 2: Bottom
                         3D Model: Assembly
                         
