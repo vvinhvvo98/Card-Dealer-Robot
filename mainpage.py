@@ -44,7 +44,6 @@
                         This design is current as of September 12, 2022. Please note that any further updates beyond this date will not be included.
                         
                         @image html finaldesign.png
-                        
       
     @section sec_6      FLOW DIAGRAM
                         The diagram of this project does not follow the Finite State Machine but contains a lot of block coding since the project is start early of school years.
