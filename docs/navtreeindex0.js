@@ -1,6 +1,6 @@
 var NAVTREEINDEX0 =
 {
-"files.html":[11,0],
+"files.html":[10,0],
 "firmware.html":[8],
 "firmware.html#sec_dc":[8,6],
 "firmware.html#sec_enc":[8,5],
@@ -28,11 +28,6 @@ var NAVTREEINDEX0 =
 "index.html#sec_7":[5],
 "index.html#sec_repo":[7],
 "index.html#sec_yout":[6],
-"mainpage_8py.html":[11,0,0],
-"pages.html":[],
-"simulation.html":[10],
-"simulation.html#sec_sim":[10,0],
-"simulation.html#sec_sim1":[10,1],
-"simulation.html#sec_sim2":[10,2],
-"simulation.html#sec_sim3":[10,3]
+"mainpage_8py.html":[10,0,0],
+"pages.html":[]
 };

@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['hand_20calculation_0',['Hand Calculation',['../simulation.html#sec_sim1',1,'']]],
-  ['hardware_1',['HARDWARE',['../index.html#sec_2',1,'']]]
+  ['line_20tracking_20sensor_0',['OSOYOO Infrared Line Tracking Sensor',['../firmware.html#sec_lin',1,'']]]
 ];

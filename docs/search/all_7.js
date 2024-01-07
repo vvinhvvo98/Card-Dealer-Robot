@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['final_20design_0',['final design',['../hardware.html#sec_br6',1,'Final Design'],['../index.html#sec_5',1,'FINAL DESIGN']]],
-  ['firmware_1',['firmware',['../firmware.html',1,'Electronic &amp; Firmware'],['../index.html#sec_3',1,'FIRMWARE']]]
+  ['infrared_20line_20tracking_20sensor_0',['OSOYOO Infrared Line Tracking Sensor',['../firmware.html#sec_lin',1,'']]],
+  ['infrared_20reflective_20sensor_20sensor_1',['TCRT5000 Infrared Reflective Sensor Sensor',['../firmware.html#sec_lin1',1,'']]]
 ];

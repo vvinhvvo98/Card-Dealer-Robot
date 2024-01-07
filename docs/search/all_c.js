@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['objective_0',['OBJECTIVE',['../index.html#sec_1',1,'']]],
-  ['osoyoo_20infrared_20line_20tracking_20sensor_1',['OSOYOO Infrared Line Tracking Sensor',['../firmware.html#sec_lin',1,'']]],
-  ['overview_2',['overview',['../firmware.html#sec_o',1,'Overview'],['../hardware.html#sec_bro',1,'Overview'],['../simulation.html#sec_sim',1,'Overview']]]
+  ['reference_0',['reference',['../hardware.html#sec_br7',1,'CAD REFERENCE'],['../index.html#sec_repo',1,'REPOSITORY REFERENCE'],['../index.html#sec_yout',1,'YOUTUBE REFERENCE']]],
+  ['reflective_20sensor_20sensor_1',['TCRT5000 Infrared Reflective Sensor Sensor',['../firmware.html#sec_lin1',1,'']]],
+  ['repository_20reference_2',['REPOSITORY REFERENCE',['../index.html#sec_repo',1,'']]],
+  ['robot_3',['Card Dealer Robot',['../index.html',1,'']]]
 ];

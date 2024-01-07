@@ -29,7 +29,7 @@ var NAVTREE =
     [ "HARDWARE", "index.html#sec_2", null ],
     [ "FIRMWARE", "index.html#sec_3", null ],
     [ "FINAL DESIGN", "index.html#sec_5", null ],
-    [ "STATE DIAGRAM", "index.html#sec_6", null ],
+    [ "FLOW DIAGRAM", "index.html#sec_6", null ],
     [ "PROJECT COMPLETE", "index.html#sec_7", null ],
     [ "YOUTUBE REFERENCE", "index.html#sec_yout", null ],
     [ "REPOSITORY REFERENCE", "index.html#sec_repo", null ],
@@ -52,12 +52,6 @@ var NAVTREE =
       [ "<br>", "hardware.html#sec_br5", null ],
       [ "Final Design", "hardware.html#sec_br6", null ],
       [ "CAD REFERENCE", "hardware.html#sec_br7", null ]
-    ] ],
-    [ "Simulation", "simulation.html", [
-      [ "Overview", "simulation.html#sec_sim", null ],
-      [ "Hand Calculation", "simulation.html#sec_sim1", null ],
-      [ "Simulation 1", "simulation.html#sec_sim2", null ],
-      [ "Simulation 2", "simulation.html#sec_sim3", null ]
     ] ],
     [ "Files", "files.html", [
       [ "File List", "files.html", "files_dup" ]

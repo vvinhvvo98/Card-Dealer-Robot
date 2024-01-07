@@ -98,22 +98,30 @@ OBJECTIVE</h1>
 <p>The project's purpose is to design a robot that simplifies the card-dealing process for popular games such as Poker and Blackjack. The robot will be equipped with a straightforward display screen, allowing players to easily select the game, determine the number of participants, and set the card distribution per player. It will include a convenient memory feature to enable users to quickly replay the game without re-entering the same details, maintaining the card order for consistency in games where this is essential. Speed in dealing cards is a critical aspect, ensuring that game flow is not interrupted. In addition, the robot will be crafted with an aesthetically pleasing design, making it an attractive addition to any gaming table. This blend of functionality, speed, and design aims to deliver a seamless and engaging card game experience.</p>
 <h1><a class="anchor" id="sec_2"></a>
 HARDWARE</h1>
-<p>The design concept for this project involves constructing a robot with a two-part subassembly. The first part is the bottom base, designed to remain immobile, providing stability and support. The second part is an upper segment that incorporates a spur gear. This gear will be connected to a stepper motor, which is responsible for the controlled rotational and pivotal movements of the robot, allowing it to adjust its orientation as needed. <br  />
- To visualize the idea before we proceed with the detailed engineering work, a hand-drawn sketch will be used. This sketch will serve as a preliminary visual guide, illustrating the basic structure and function of the two-part mechanism.</p>
+<p>The design concept for this project involves constructing a robot with a four-part subassembly.</p>
+<p>The first part is the bottom base, designed to remain immobile, providing stability and support.</p>
+<p>The second part is an middle pard that incorporates a spur gear.</p>
+<p>The third part is in a seperate part that use to shooting card out for card distribution that is attached by 4 strong magnets.</p>
+<p>The fourth part is the top piece that is included everything for User Interface such as indicator LED, OLED screen and keyboard.</p>
 <p>SKETCH GOES HERE</p>
 <p>For more information on the design, you can check out the detailed CAD model at <a class="el" href="hardware.html">3D CAD Modeling</a>.</p>
 <h1><a class="anchor" id="sec_3"></a>
 FIRMWARE</h1>
-<p>For this project, consider using an Arduino Nano as the microcontroller due to its compact size and efficiency in controlling input and output logic. Include two NEMA 17 stepper motors: one to control the rotation of the upper part for rotation, and the other for the precise dealing of cards from the deck. Implement a user-friendly interface featuring a small OLED screen for clear display of information like the number of players and cards per player, along with various settings. A 12x4 keyboard will allow for easy input of these details. The design should focus on a compact yet robust build to accommodate continuous card shuffling and dealing, ensuring a seamless and user-engaging experience.</p>
+<p>For this project, consider using an Arduino Nano as the microcontroller due to its compact size and efficiency in controlling input and output logic. Include two NEMA 17 stepper motors: one to control the rotation of the upper part for rotation, and the other for the precise dealing of cards from the deck. Implement a user-friendly interface featuring a small OLED screen for clear display of information like the number of players and cards per player, along with various settings. A 12x4 keyboard will allow for easy input of these details. The design should focus on a compact yet robust build to accommodate continuous card dealing.</p>
 <p>More details about how the electronic parts are connected and designed will be given in the <a class="el" href="firmware.html">Electronic &amp; Firmware</a> section. This part of the document will clearly explain how all the components work together.</p>
 <h1><a class="anchor" id="sec_5"></a>
 FINAL DESIGN</h1>
-<p>The final CAD design of the Card Dealer Robot includes an array of components: The complete assembly of ROMI, representing the culmination of the term project, is depicted in the figure below. This design is current as of December 13, 2023. Please note that any further updates beyond this date will not be included in this portfolio due to time constraints.</p>
+<p>Figure below shows the final design of the robot This design is current as of September 12, 2022. Please note that any further updates beyond this date will not be included.</p>
 <h1><a class="anchor" id="sec_6"></a>
-STATE DIAGRAM</h1>
-<p>The robot will concurrently execute four tasks, as outlined in the Task Diagram below. This diagram specifies the duration (in ms) and relative priority of each task. These tasks will be scheduled according to their assigned priorities and periods using a scheduler script, the code for which has been provided by Lecturer Charlie Refvem.</p>
+FLOW DIAGRAM</h1>
+<p>The diagram of this project does not follow the Finite State Machine but contains a lot of block coding since the project is start early of school years. However, the flow diagram below will briefly describe the running flow of the robot.</p>
+<div class="image">
+<img src=".png" alt=""/>
+</div>
 <h1><a class="anchor" id="sec_7"></a>
 PROJECT COMPLETE</h1>
+<p>The project's diagram, started early in the junior year, uses block coding instead of a typical Finite State Machine. A flow diagram is included to clearly show how the robot works. <br  />
+</p>
 <h1><a class="anchor" id="sec_yout"></a>
 YOUTUBE REFERENCE</h1>
 <p>All videos including all the fail and successful run can be reference and accessible in the following URL links:</p>

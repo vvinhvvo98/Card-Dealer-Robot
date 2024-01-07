@@ -15,11 +15,15 @@
                         This blend of functionality, speed, and design aims to deliver a seamless and engaging card game experience.
 
     @section sec_2      HARDWARE
-                        The design concept for this project involves constructing a robot with a two-part subassembly. 
-                        The first part is the bottom base, designed to remain immobile, providing stability and support. 
-                        The second part is an upper segment that incorporates a spur gear. 
-                        This gear will be connected to a stepper motor, which is responsible for the controlled rotational and pivotal movements of the robot, allowing it to adjust its orientation as needed.  
-                        To visualize the idea before we proceed with the detailed engineering work, a hand-drawn sketch will be used. This sketch will serve as a preliminary visual guide, illustrating the basic structure and function of the two-part mechanism.
+                        The design concept for this project involves constructing a robot with a four-part subassembly. 
+                        
+                        The first part is the bottom base, designed to remain immobile, providing stability and support.
+                        
+                        The second part is an middle pard that incorporates a spur gear. 
+                        
+                        The third part is in a seperate part that use to shooting card out for card distribution that is attached by 4 strong magnets.
+                        
+                        The fourth part is the top piece that is included everything for User Interface such as indicator LED, OLED screen and keyboard.
 
                         SKETCH GOES HERE
                          
@@ -29,29 +33,30 @@
                         For this project, consider using an Arduino Nano as the microcontroller due to its compact size and efficiency in controlling input and output logic. 
                         Include two NEMA 17 stepper motors: one to control the rotation of the upper part for rotation, and the other for the precise dealing of cards from the deck. 
                         Implement a user-friendly interface featuring a small OLED screen for clear display of information like the number of players and cards per player, along with various settings. 
-                        A 12x4 keyboard will allow for easy input of these details. The design should focus on a compact yet robust build to accommodate continuous card shuffling and dealing, ensuring a seamless and user-engaging experience.
+                        A 12x4 keyboard will allow for easy input of these details. The design should focus on a compact yet robust build to accommodate continuous card dealing.
                              
                         More details about how the electronic parts are connected and designed will be given in the @ref firmware section. 
                         This part of the document will clearly explain how all the components work together.
                         
     
     @section sec_5      FINAL DESIGN
-                        The final CAD design of the Card Dealer Robot includes an array of components:
-                        The complete assembly of ROMI, representing the culmination of the term project, is depicted in the figure below. 
-                        This design is current as of December 13, 2023. Please note that any further updates beyond this date will not be included in this portfolio due to time constraints.
+                        Figure below shows the final design of the robot
+                        This design is current as of September 12, 2022. Please note that any further updates beyond this date will not be included.
                         
                         
       
-    @section sec_6      STATE DIAGRAM
-                        The robot will concurrently execute four tasks, as outlined in the Task Diagram below. 
-                        This diagram specifies the duration (in ms) and relative priority of each task. 
-                        These tasks will be scheduled according to their assigned priorities and periods using a scheduler script, the code for which has been provided by Lecturer Charlie Refvem.
+    @section sec_6      FLOW DIAGRAM
+                        The diagram of this project does not follow the Finite State Machine but contains a lot of block coding since the project is start early of school years.
+                        However, the flow diagram below will briefly describe the running flow of the robot.
+                        
+                        @image html .png
         
                         
     @section sec_7      PROJECT COMPLETE
-                        
-                        
+                        The project's diagram, started early in the junior year, uses block coding instead of a typical Finite State Machine. 
+                        A flow diagram is included to clearly show how the robot works.                        
     
+                        
     @section sec_yout   YOUTUBE REFERENCE
                         All videos including all the fail and successful run can be reference and accessible in the following URL links:
                             
