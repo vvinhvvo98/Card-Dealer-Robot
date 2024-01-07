@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['final_20design_0',['final design',['../hardware.html#sec_br6',1,'Final Design'],['../index.html#sec_5',1,'FINAL DESIGN']]],
-  ['firmware_1',['firmware',['../firmware.html',1,'Electronic &amp; Firmware'],['../index.html#sec_3',1,'FIRMWARE']]],
-  ['flow_20diagram_2',['FLOW DIAGRAM',['../index.html#sec_6',1,'']]]
+  ['cad_20modeling_0',['3D CAD Modeling',['../hardware.html',1,'']]],
+  ['cad_20reference_1',['CAD REFERENCE',['../hardware.html#sec_br7',1,'']]],
+  ['card_20dealer_20robot_2',['Card Dealer Robot',['../index.html',1,'']]],
+  ['complete_3',['PROJECT COMPLETE',['../index.html#sec_7',1,'']]]
 ];

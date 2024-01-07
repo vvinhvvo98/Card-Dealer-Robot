@@ -45,11 +45,10 @@ var NAVTREE =
     ] ],
     [ "3D CAD Modeling", "hardware.html", [
       [ "Overview", "hardware.html#sec_bro", null ],
-      [ "<br>", "hardware.html#sec_br1", null ],
-      [ "<br>", "hardware.html#sec_br2", null ],
-      [ "<br>", "hardware.html#sec_br3", null ],
-      [ "<br>", "hardware.html#sec_br4", null ],
-      [ "<br>", "hardware.html#sec_br5", null ],
+      [ "Part 1: Base", "hardware.html#sec_br1", null ],
+      [ "Part 2: Bottom", "hardware.html#sec_br2", null ],
+      [ "Part 3: Middle", "hardware.html#sec_br3", null ],
+      [ "Part 4: Top", "hardware.html#sec_br4", null ],
       [ "Final Design", "hardware.html#sec_br6", null ],
       [ "CAD REFERENCE", "hardware.html#sec_br7", null ]
     ] ],

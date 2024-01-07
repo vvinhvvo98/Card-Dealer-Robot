@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['reference_0',['reference',['../hardware.html#sec_br7',1,'CAD REFERENCE'],['../index.html#sec_repo',1,'REPOSITORY REFERENCE'],['../index.html#sec_yout',1,'YOUTUBE REFERENCE']]],
-  ['reflective_20sensor_20sensor_1',['TCRT5000 Infrared Reflective Sensor Sensor',['../firmware.html#sec_lin1',1,'']]],
-  ['repository_20reference_2',['REPOSITORY REFERENCE',['../index.html#sec_repo',1,'']]],
-  ['robot_3',['Card Dealer Robot',['../index.html',1,'']]]
+  ['mainpage_2epy_0',['mainpage.py',['../mainpage_8py.html',1,'']]],
+  ['middle_1',['Part 3: Middle',['../hardware.html#sec_br3',1,'']]],
+  ['modeling_2',['3D CAD Modeling',['../hardware.html',1,'']]]
 ];
