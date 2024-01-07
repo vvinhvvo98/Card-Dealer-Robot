@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['line_20tracking_20sensor_0',['OSOYOO Infrared Line Tracking Sensor',['../firmware.html#sec_lin',1,'']]]
+  ['objective_0',['OBJECTIVE',['../index.html#sec_1',1,'']]],
+  ['overview_1',['Overview',['../hardware.html#sec_bro',1,'']]]
 ];

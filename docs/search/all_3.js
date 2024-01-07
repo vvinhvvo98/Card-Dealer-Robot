@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['electronic_20firmware_0',['Electronic &amp; Firmware',['../firmware.html',1,'']]]
+  ['4_3a_20top_0',['Part 4: Top',['../hardware.html#sec_br4',1,'']]]
 ];

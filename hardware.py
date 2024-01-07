@@ -1,5 +1,4 @@
 '''! @page hardware 3D CAD Modeling
-
     @section sec_bro    Overview
                         This robot has a strong design with two linear ball bearings and a 3/4" shaft to support its structure. 
                         On top of this base, it has electronic parts and spacers for organization. 

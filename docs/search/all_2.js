@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['dealer_20robot_0',['Card Dealer Robot',['../index.html',1,'']]],
-  ['design_1',['FINAL DESIGN',['../index.html#sec_5',1,'']]],
-  ['diagram_2',['FLOW DIAGRAM',['../index.html#sec_6',1,'']]]
+  ['3_3a_20middle_0',['Part 3: Middle',['../hardware.html#sec_br3',1,'']]],
+  ['3d_20cad_20modeling_1',['3D CAD Modeling',['../hardware.html',1,'']]]
 ];
