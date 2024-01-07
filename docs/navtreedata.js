@@ -25,9 +25,6 @@
 var NAVTREE =
 [
   [ "Card Dealer Robot", "index.html", [
-    [ "OBJECTIVE", "index.html#sec_1", null ],
-    [ "HARDWARE", "index.html#sec_2", null ],
-    [ "FIRMWARE", "index.html#sec_3", null ],
     [ "FINAL DESIGN", "index.html#sec_5", null ],
     [ "FLOW DIAGRAM", "index.html#sec_6", null ],
     [ "PROJECT COMPLETE", "index.html#sec_7", null ],
@@ -35,9 +32,9 @@ var NAVTREE =
     [ "REPOSITORY REFERENCE", "index.html#sec_repo", null ],
     [ "Electronic & Firmware", "firmware.html", null ],
     [ "3D CAD Modeling", "hardware.html", [
-      [ "Overview", "hardware.html#sec_bro", null ],
-      [ "Part 1: Base", "hardware.html#sec_br1", null ],
-      [ "Part 2: Bottom", "hardware.html#sec_br2", null ],
+      [ "Overview", "hardware.html#sec_1", null ],
+      [ "Part 1: Base", "hardware.html#sec_2", null ],
+      [ "Part 2: Bottom", "hardware.html#sec_3", null ],
       [ "Part 3: Middle", "hardware.html#sec_br3", null ],
       [ "Part 4: Top", "hardware.html#sec_br4", null ],
       [ "Final Design", "hardware.html#sec_br6", null ],

@@ -1,5 +1,8 @@
 var searchData=
 [
-  ['objective_0',['OBJECTIVE',['../index.html#sec_1',1,'']]],
-  ['overview_1',['Overview',['../hardware.html#sec_bro',1,'']]]
+  ['part_201_3a_20base_0',['Part 1: Base',['../index.html#sec_2',1,'']]],
+  ['part_202_3a_20bottom_1',['Part 2: Bottom',['../index.html#sec_3',1,'']]],
+  ['part_203_3a_20middle_2',['Part 3: Middle',['../hardware.html#sec_br3',1,'']]],
+  ['part_204_3a_20top_3',['Part 4: Top',['../hardware.html#sec_br4',1,'']]],
+  ['project_20complete_4',['PROJECT COMPLETE',['../index.html#sec_7',1,'']]]
 ];
