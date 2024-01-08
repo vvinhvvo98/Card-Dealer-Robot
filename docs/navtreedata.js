@@ -35,8 +35,10 @@ var NAVTREE =
     [ "Electronic & Firmware", "firmware.html", [
       [ "Overview", "firmware.html#sec_o", null ],
       [ "Custom PCB", "firmware.html#sec_1", null ],
+      [ "Schematic Diagram", "firmware.html#sec_1s", null ],
       [ "Arduino Nano", "firmware.html#sec_2", null ],
       [ "Step Down Regulator", "firmware.html#sec_3", null ],
+      [ "DRV8825 Stepper Motor Driver", "firmware.html#sec_32", null ],
       [ "NEMA 17 Stepper Motor", "firmware.html#sec_4", null ],
       [ "OLED Screen", "firmware.html#sec_5", null ],
       [ "Keyboard 4x4", "firmware.html#sec_6", null ],

@@ -7,15 +7,16 @@
 
     @section seca_2     Part 1: Base
                         3D Model: Assembly
+                        @image html base.png
                         
                         3D Model: Exploded View
-    
+                        @image html basee.png
+                        
                         3D Model: Internal Spur Gear
+                        @image html ispur.png
                         
-                        3D Model: Fixed Ball Bearing an Housing
-                        
-                        3D Model: Friction Tape  
-                        
+                        3D Model: Fixed Ball Bearing 
+                        @image html bearing.png
                         
     @section seca_3     Part 2: Bottom
                         3D Model: Assembly
@@ -33,6 +34,10 @@
                         3D Model: 3D printed Spur Gear
                         @image html spur.png
                         
+                        3D Model: Magnets
+                        3D Model: 3D printed Spur Gear
+                        @image html magnets.png
+                        
                         
     @section seca_br3   Part 3: Middle
                         3D Model: Assembly
@@ -46,23 +51,23 @@
                         
     @section seca_br4   Part 4: Top
                         3D Model: Assembly
+                        @image html top.png
                         
                         3D Model: Exploded View
+                        @image html tope.png
                         
-                        3D Model: Bottom Plate
+                        3D Model: Lower Plate
+                        @image html lower.png
                         
-                        3D Model: Top Plate
-                        
-                        3D Model: Custom PCB + Electronics Component  
-                        
-                        3D Model: 12V Battery
-                                     
+                        3D Model: Upper Plate
+                        @image html upper.png
                         
     @section seca_br6   Final Design
                         3D Model: Final Assembly
+                        @image html finaldesign.png
                         
                         3D Model: Exploded View
-                        
+                        @image html final.png
                         
     @section seca_br7   CAD REFERENCE
                         All CAD modeling from SolidWorks can be access in the "CAD" folder through https://github.com/vvinhvvo98/Card-Dealer-Robot
