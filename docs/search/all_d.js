@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['oled_20screen_0',['OLED Screen',['../index.html#sec_5',1,'']]],
-  ['overview_1',['Overview',['../firmware.html#sec_o',1,'']]]
+  ['nano_0',['Arduino Nano',['../hardware.html#sec_2',1,'']]],
+  ['nema_2017_20stepper_20motor_1',['NEMA 17 Stepper Motor',['../firmware.html#sec_4',1,'']]]
 ];
