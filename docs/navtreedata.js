@@ -43,10 +43,13 @@ var NAVTREE =
       [ "RGB LED      <br>", "firmware.html#sec_7", null ]
     ] ],
     [ "3D CAD Modeling", "hardware.html", [
-      [ "Part 3: Middle", "hardware.html#sec_br3", null ],
-      [ "Part 4: Top", "hardware.html#sec_br4", null ],
-      [ "Final Design", "hardware.html#sec_br6", null ],
-      [ "CAD REFERENCE", "hardware.html#sec_br7", null ]
+      [ "Overview", "hardware.html#seca_1", null ],
+      [ "Part 1: Base", "hardware.html#seca_2", null ],
+      [ "Part 2: Bottom", "hardware.html#seca_3", null ],
+      [ "Part 3: Middle", "hardware.html#seca_br3", null ],
+      [ "Part 4: Top", "hardware.html#seca_br4", null ],
+      [ "Final Design", "hardware.html#seca_br6", null ],
+      [ "CAD REFERENCE", "hardware.html#seca_br7", null ]
     ] ],
     [ "Files", "files.html", [
       [ "File List", "files.html", "files_dup" ]

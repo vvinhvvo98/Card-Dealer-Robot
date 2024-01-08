@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['br_0',['RGB LED      &lt;br&gt;',['../firmware.html#sec_7',1,'']]]
+  ['arduino_20nano_0',['Arduino Nano',['../firmware.html#sec_2',1,'']]]
 ];

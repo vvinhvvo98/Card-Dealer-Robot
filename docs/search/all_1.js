@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['3_3a_20middle_0',['Part 3: Middle',['../hardware.html#sec_br3',1,'']]],
-  ['3d_20cad_20modeling_1',['3D CAD Modeling',['../hardware.html',1,'']]]
+  ['2_3a_20bottom_0',['Part 2: Bottom',['../hardware.html#seca_3',1,'']]]
 ];

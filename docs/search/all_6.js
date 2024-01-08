@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['dealer_20robot_0',['Card Dealer Robot',['../index.html',1,'']]],
-  ['design_1',['design',['../hardware.html#sec_br6',1,'Final Design'],['../index.html#secs_5',1,'FINAL DESIGN']]],
-  ['diagram_2',['FLOW DIAGRAM',['../index.html#secs_6',1,'']]],
-  ['down_20regulator_3',['Step Down Regulator',['../hardware.html#sec_3',1,'']]]
+  ['cad_20modeling_0',['3D CAD Modeling',['../hardware.html',1,'']]],
+  ['cad_20reference_1',['CAD REFERENCE',['../hardware.html#seca_br7',1,'']]],
+  ['card_20dealer_20robot_2',['Card Dealer Robot',['../index.html',1,'']]],
+  ['custom_20pcb_3',['Custom PCB',['../firmware.html#sec_1',1,'']]]
 ];

@@ -56,10 +56,11 @@
     @section sec_yout   YOUTUBE REFERENCE
                         All videos including all the fail and successful run can be reference and accessible in the following URL links:
                             
-                        All Videos:                    
+                        Custom Game Demonstration:
                         
+                        BlackJack Demonstration:
+                            
                         
-
     @section sec_repo   REPOSITORY REFERENCE
                         All code that will be referenced in this portfolio relate to ROMI project
                         is accessible through https://github.com/vvinhvvo98/Card-Dealer-Robot
