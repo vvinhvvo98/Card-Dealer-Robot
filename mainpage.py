@@ -39,13 +39,7 @@
                         This part of the document will clearly explain how all the components work together.
                         
                         @image html firm.png
-    
-    @section secs_5     FINAL DESIGN
-                        Figure below shows the final design of the robot
-                        This design is current as of September 12, 2022. Please note that any further updates beyond this date will not be included.
                         
-                        @image html finaldesign.png
-      
     @section secs_6     FLOW DIAGRAM
                         The project's diagram, started early in the junior year, uses block coding instead of a typical Finite State Machine. 
                         A flow diagram is included to clearly show how the robot works. 
@@ -53,18 +47,23 @@
                         However, the flow diagram below will briefly describe the running flow of the robot.
                         
                         @image html flowchart.png
+    
+    @section secs_5     FINAL DESIGN
+                        Figure below shows the final design of the robot
+                        This design is current as of September 12, 2022. Please note that any further updates beyond this date will not be included.
+                        
+                        @image html done.png
                         
     @section sec_yout   YOUTUBE REFERENCE
                         All videos including all the fail and successful run can be reference and accessible in the following URL links:
-                            
-                        Custom Game Demonstration:
-                        
-                        BlackJack Demonstration:
-                            
+                       
+                        https://www.youtube.com/playlist?list=PLlT9z-PWNXdPdNyG8XZUSzmCKlZkHHBCw    
                         
     @section sec_repo   REPOSITORY REFERENCE
                         All code that will be referenced in this portfolio relate to ROMI project
-                        is accessible through https://github.com/vvinhvvo98/Card-Dealer-Robot
+                        is accessible through 
+                        
+                        https://github.com/vvinhvvo98/Card-Dealer-Robot
                         
                         However, you may find it more useful to read through
                         the whole pages before looking around there. 

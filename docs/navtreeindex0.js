@@ -26,8 +26,8 @@ var NAVTREEINDEX0 =
 "index.html#secs_1":[0],
 "index.html#secs_2":[1],
 "index.html#secs_3":[2],
-"index.html#secs_5":[3],
-"index.html#secs_6":[4],
+"index.html#secs_5":[4],
+"index.html#secs_6":[3],
 "mainpage_8py.html":[9,0,0],
 "pages.html":[]
 };

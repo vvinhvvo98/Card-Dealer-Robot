@@ -28,8 +28,8 @@ var NAVTREE =
     [ "OBJECTIVE", "index.html#secs_1", null ],
     [ "HARDWARE", "index.html#secs_2", null ],
     [ "FIRMWARE", "index.html#secs_3", null ],
-    [ "FINAL DESIGN", "index.html#secs_5", null ],
     [ "FLOW DIAGRAM", "index.html#secs_6", null ],
+    [ "FINAL DESIGN", "index.html#secs_5", null ],
     [ "YOUTUBE REFERENCE", "index.html#sec_yout", null ],
     [ "REPOSITORY REFERENCE", "index.html#sec_repo", null ],
     [ "Electronic & Firmware", "firmware.html", [
