@@ -38,6 +38,7 @@
                         More details about how the electronic parts are connected and designed will be given in the @ref firmware section. 
                         This part of the document will clearly explain how all the components work together.
                         
+                        @image html firm.png
     
     @section secs_5     FINAL DESIGN
                         Figure below shows the final design of the robot
