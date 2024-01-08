@@ -1,6 +1,9 @@
 '''! @page firmware Electronic & Firmware
     @section sec_o      Overview 
-                        asdas
+                        This card dealer machine project is centered around an Arduino Nano, selected for its compact size and efficient logic control, 
+                        paired with two NEMA 17 stepper motors—one for the machine's rotation and another for card dealing precision. 
+                        The user interface combines a small OLED screen for crisp information display, including player count and game settings, and a 12x4 keyboard for easy data entry, all within a design that's both space-efficient and durable for continuous use. 
+                        Detailed interconnectivity and operation of these electronic components will be further elaborated in the firmware documentation section.
                          
     @section sec_1      Custom PCB
                         @image html pcb.png
