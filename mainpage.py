@@ -25,7 +25,7 @@
                         
                         Part 4 is the top piece that is included everything for User Interface such as indicator LED, OLED screen and 4x4 keyboard.
 
-                        SKETCH GOES HERE
+                        @image html final.png
                          
                         For more information on the design, you can check out the detailed CAD model at @ref hardware.
                          
