@@ -13,6 +13,8 @@
                         It will include a convenient memory feature to enable users to quickly replay the game without re-entering the same details, maintaining the card order for consistency in games where this is essential. 
                         Speed in dealing cards is a critical aspect, ensuring that game flow is not interrupted. In addition, the robot will be crafted with an aesthetically pleasing design, making it an attractive addition to any gaming table. 
                         This blend of functionality, speed, and design aims to deliver a seamless and engaging card game experience.
+                        
+                        @image html sketch.png
 
     @section secs_2     HARDWARE
                         The design concept for this project involves constructing a robot with a four-part subassembly. 
@@ -53,7 +55,7 @@
                         This design is current as of September 12, 2022. Please note that any further updates beyond this date will not be included.
                         
                         @image html done.png
-                        
+                            
     @section sec_yout   YOUTUBE REFERENCE
                         All videos including all the fail and successful run can be reference and accessible in the following URL links:
                        
