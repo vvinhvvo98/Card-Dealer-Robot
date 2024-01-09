@@ -42,7 +42,7 @@ var NAVTREE =
       [ "NEMA 17 Stepper Motor", "firmware.html#sec_4", null ],
       [ "OLED Screen", "firmware.html#sec_5", null ],
       [ "Keyboard 4x4", "firmware.html#sec_6", null ],
-      [ "RGB LED      <br>", "firmware.html#sec_7", null ]
+      [ "RGB LED     <br>", "firmware.html#sec_7", null ]
     ] ],
     [ "3D CAD Modeling", "hardware.html", [
       [ "Overview", "hardware.html#seca_1", null ],

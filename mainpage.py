@@ -25,7 +25,9 @@
                         
                         Part 3 is in a seperate part that use to hold the card deck and shooting card out for card distribution that is attached by 4 strong magnets.
                         
-                        Part 4 is the top piece that is included everything for User Interface such as indicator LED, OLED screen and 4x4 keyboard.
+                        Part 4 is the bracket that is mounting the PCB and all electronic components for the circuit
+                        
+                        Part 5 is the top piece that is included everything for User Interface such as indicator LED, OLED screen and 4x4 keyboard.
 
                         @image html final.png
                          
@@ -55,7 +57,9 @@
                         This design is current as of September 12, 2022. Please note that any further updates beyond this date will not be included.
                         
                         @image html done.png
-                            
+                        
+                        @image html demo.gif
+                        
     @section sec_yout   YOUTUBE REFERENCE
                         All videos including all the fail and successful run can be reference and accessible in the following URL links:
                        
