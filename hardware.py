@@ -35,9 +35,9 @@
                         3D Model: Exploded View
                         
                             As shown in the exploded view, the fixed ball bearing is attached to the bottom assembly by 2 set of bolts and nuts.
-                        Then the whole assembly is supported with a 3/4 inches diameter shaft.
-                        The spur gear is attached directly into the stepper motor to rotate the robot.
-                        Two magnets is added to provide a convinient detachable feature for subassembly in @ref seca_br3
+                            Then the whole assembly is supported with a 3/4 inches diameter shaft.
+                            The spur gear is attached directly into the stepper motor to rotate the robot.
+                            Two magnets is added to provide a convinient detachable feature for subassembly in @ref seca_br3
                         @image html bottome.png 
                         
                         3D Model: Platform + Stepper Housing
@@ -70,13 +70,13 @@
                         3D Model: Exploded View
                         
                             As shown in the exploded view, the housing is attached with the NEMA 17 stepper motor with the spinning wheel to shooting card.
-                        Moreover, there are two magnets that helps the assembly attached to @ref seca_3
+                            Moreover, there are two magnets that helps the assembly attached to @ref seca_3
                         @image html shoote.png 
                         
                         3D Model: Housing
                         
                             The housing use a spring that will always compress the card deck that will push the deck to the spinning wheel.
-                        That make the card shooting 1 by 1 with an appropriate compression force
+                            That make the card shooting 1 by 1 with an appropriate compression force
                         @image html housingshoot.png 
                         
     @section seca_br4   Part 4 + Part 5: Top
