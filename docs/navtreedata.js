@@ -49,7 +49,7 @@ var NAVTREE =
       [ "Part 1: Base", "hardware.html#seca_2", null ],
       [ "Part 2: Bottom", "hardware.html#seca_3", null ],
       [ "Part 3: Middle", "hardware.html#seca_br3", null ],
-      [ "Part 4: Top", "hardware.html#seca_br4", null ],
+      [ "Part 4 + Part 5: Top", "hardware.html#seca_br4", null ],
       [ "Final Design", "hardware.html#seca_br6", null ],
       [ "CAD REFERENCE", "hardware.html#seca_br7", null ]
     ] ],

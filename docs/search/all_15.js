@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['weight_20bracket_0',['Balance Counter Weight Bracket',['../hardware.html#sec_br2',1,'']]]
+  ['youtube_20reference_0',['YOUTUBE REFERENCE',['../index.html#sec_yout',1,'']]]
 ];

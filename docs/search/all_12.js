@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['schematic_20diagram_0',['Schematic Diagram',['../firmware.html#sec_1s',1,'']]],
-  ['screen_1',['OLED Screen',['../firmware.html#sec_5',1,'']]],
-  ['step_20down_20regulator_2',['Step Down Regulator',['../firmware.html#sec_3',1,'']]],
-  ['stepper_20motor_3',['NEMA 17 Stepper Motor',['../firmware.html#sec_4',1,'']]],
-  ['stepper_20motor_20driver_4',['DRV8825 Stepper Motor Driver',['../firmware.html#sec_32',1,'']]]
+  ['reference_0',['reference',['../hardware.html#seca_br7',1,'CAD REFERENCE'],['../index.html#sec_repo',1,'REPOSITORY REFERENCE'],['../index.html#sec_yout',1,'YOUTUBE REFERENCE']]],
+  ['regulator_1',['Step Down Regulator',['../firmware.html#sec_3',1,'']]],
+  ['repository_20reference_2',['REPOSITORY REFERENCE',['../index.html#sec_repo',1,'']]],
+  ['rgb_20led_20br_3',['RGB LED     &lt;br&gt;',['../firmware.html#sec_7',1,'']]],
+  ['robot_4',['Card Dealer Robot',['../index.html',1,'']]]
 ];
