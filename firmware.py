@@ -18,12 +18,14 @@
                         
     @section sec_1s     Schematic Diagram
                         Overall, the schematic below describe the connections between pins and electronics component of the robot.
+                            
                         Keynote:
-                            1. Power voltage 12V for Stepper Motor (2 pins)
-                            2. Power voltage 9V for Arduino Nano (2 pins)
-                            3. Stepper Driver Motor (16 pins/each)
-                            4. OLED Screen (4 pins)
-                            5. Keyboard 4x4 (8 pins)
+                                
+                                1. Power voltage 12V for Stepper Motor (2 pins)
+                                2. Power voltage 9V for Arduino Nano (2 pins)
+                                3. Stepper Driver Motor (16 pins/each)
+                                4. OLED Screen (4 pins)
+                                5. Keyboard 4x4 (8 pins)
                             
                         @image html connection.png
                         
